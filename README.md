@@ -1,4 +1,4 @@
-# Group-Project-5
+# Mini-Project-5
 
 Data visualization and reporting in Streamlit (Group4  DAFT NOV21)
 
